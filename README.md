@@ -86,6 +86,19 @@ Simple and user-friendly interface
 
 ---
 
+## Screenshots
+
+### Registration Form
+![Registration Form](screenshots/form.png)
+
+### Successful Registration
+![Success Message](screenshots/success.png)
+
+### Database Records
+![Database Records](screenshots/database.png)
+
+---
+
 ## Future Enhancements
 View registered students list
 Update and delete student records
